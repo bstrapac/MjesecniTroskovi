@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">How much?!</string>
+    <string name="hint">Iznos u kunama</string>
+    <string name="labelIznos">Uredite iznos</string>
+    <string name="labelCalendar">Datum</string>
+    <string name="dialog_title">Obriši zapis?</string>
+    <string name="ok">Da</string>
+    <string name="cancel">Ne</string>
+    <string name="dialog_edit">Želite li obrisati ili urediti odabrani zapis?</string>
+    <string name="edit_message">Brisanje ili uređivanje zapisa je nepovratna operacija.</string>
+    <string name="edit">Uredi</string>
+    <string name="delete">Obriši</string>
+    <string name="confirmation">Obrisali ste zapis.</string>
+    <string name="on">uplata</string>
+    <string name="off">isplata</string>
+    <string name="note">Označite za uplatu</string>
+</resources>
